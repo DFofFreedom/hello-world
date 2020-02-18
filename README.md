@@ -1,7 +1,7 @@
 # hello-world
 Hello GitHub,
 
-My name is DAvid Fisher, I'm a Research Fellow at the Universty of Aberdeen.
+My name is David Fisher, I'm a Research Fellow at the Universty of Aberdeen.
 
 I study social interactions and the role they play in evolution.
 
