@@ -1,4 +1,8 @@
 # hello-world
-Test repository
+Hello GitHub,
 
-These are some edits to fulfill the tutorial
+My name is DAvid Fisher, I'm a Research Fellow at the Universty of Aberdeen.
+
+I study social interactions and the role they play in evolution.
+
+I'll probably use my GitHub for storing code, and collaborating on R-based projects.
